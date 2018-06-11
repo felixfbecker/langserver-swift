@@ -1,7 +1,7 @@
 # Swift Language Server
 
-![macOS](https://img.shields.io/badge/os-macOS-green.svg?style=flat)
-![Linux](https://img.shields.io/badge/os-linux-green.svg?style=flat)
+![macOS](https://img.shields.io/badge/os-macOS-brightgreen.svg?style=flat)
+![Linux](https://img.shields.io/badge/os-linux-orange.svg?style=flat)
 ![Apache 2](https://img.shields.io/badge/license-Apache2-blue.svg?style=flat)
 ![](https://img.shields.io/badge/Swift-4.1.0-orange.svg?style=flat)
 [![Build Status](https://travis-ci.org/RLovelett/langserver-swift.svg?branch=master)](https://travis-ci.org/RLovelett/langserver-swift)
